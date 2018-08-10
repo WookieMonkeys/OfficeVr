@@ -13,7 +13,7 @@ export default class OfficeTour extends React.Component {
         >
           <Text
             style={{
-              backgroundColor: "red",
+              backgroundColor: "#00aB2a",
               fontSize: 0.4,
               fontWeight: "400",
               layoutOrigin: [0.5, 0.5],
@@ -21,7 +21,7 @@ export default class OfficeTour extends React.Component {
               paddingRight: 0.2,
               textAlign: "center",
               textAlignVertical: "center",
-              transform: [{ translate: [0, 0, -3] }]
+              transform: [{ translate: [0, 0, -6] }]
             }}
           >
             Decipher: Front Desk
