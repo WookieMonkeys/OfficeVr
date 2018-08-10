@@ -1,7 +1,7 @@
 import 'react-native';
-import 'react-360';
+import 'react-vr';
 import React from 'react';
-import Index from '../index.js';
+import Index from '../index.vr.js';
 
 // Note: test renderer must be required after react-native.
 import renderer from 'react-test-renderer';
